@@ -1,7 +1,0 @@
-{
-  "components": {
-    "StackItem": "Stack/StackItem",
-    "HStack": "Stack/HStack",
-    "VStack": "Stack/VStack"
-  }
-}

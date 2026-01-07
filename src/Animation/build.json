@@ -1,9 +1,0 @@
-{
-  "components": {
-    "Fade": "Animation/Fade",
-    "Bounce": "Animation/Bounce",
-    "Collapse": "Animation/Collapse",
-    "Slide": "Animation/Slide",
-    "Transition": "Animation/Transition"
-  }
-}

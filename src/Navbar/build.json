@@ -1,8 +1,0 @@
-{
-  "components": {
-    "NavbarBrand": "Navbar/NavbarBrand",
-    "NavbarContent": "Navbar/NavbarContent",
-    "NavbarToggle": "Navbar/NavbarToggle",
-    "NavbarDrawer": "Navbar/NavbarDrawer"
-  }
-}

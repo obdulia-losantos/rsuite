@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "rsuite": {
-      "command": "npx",
-      "args": ["-y", "@rsuite/mcp@latest"]
-    }
-  }
-}
